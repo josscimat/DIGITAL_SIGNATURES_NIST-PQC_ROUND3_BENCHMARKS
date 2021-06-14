@@ -25,7 +25,7 @@ The machine where I performed the original test has the following characteristic
 - 4GB of RAM DDR3, 3824MiB
 - SSD 128GB Sata3
 
-Next I include a table with the results of measuring the digital signature algorithms; it includes the 3 3rd. Round Candidates of the NIST's Post Quantum Crypto Contest also the Alternative Candidates, all signatures were tested 100 cycles and averaging; the categories where 3rd. round candidates signature, 3rd. round candidates verification, alternative candidates signature and alternative candidates verification, the results are in the clasifications mentions above sorted by the fastest signature in every category.
+Next I include a table with the results of measuring the digital signature algorithms; it includes the three 3rd. Round Candidates of the NIST's Post Quantum Crypto Contest also the Alternative Candidates, all signatures were tested 100 cycles and averaging; the categories where 3rd. round candidates signature, 3rd. round candidates verification, alternative candidates signature and alternative candidates verification, the results are in the clasifications mentions above sorted by the fastest signature in every category.
 
 
 
@@ -81,7 +81,7 @@ Next I include a table with the results of measuring the digital signature algor
 |	RAINBOW	|	 ref-IIIc-Compressed	|	sk-60-bytes	|	pk-258400-bytes	|	125814932	|	 0.066393	|	17641825	|	 0.009310	|
 |	RAINBOW	|	 opt-IIIc-Compressed	|	sk-60-bytes	|	pk-258400-bytes	|	133113175	|	 0.070244	|	17694044	|	 0.009337	|
 |	RAINBOW	|	 opt-Vc-Compressed	|	sk-60-bytes	|	pk-523600-bytes	|	237678445	|	 0.125424	|	39963676	|	 0.021089	|
-	RAINBOW		 ref-Vc-Compressed		sk-60-bytes		pk-523600-bytes		352857933		 0.186205		41302142		 0.021795	
+|	RAINBOW	|	 ref-Vc-Compressed	|	sk-60-bytes	|	pk-523600-bytes	|	352857933	|	 0.186205	|	41302142	|	 0.021795	|
 
 
 **3rd. Round Candidates Verification**
@@ -134,7 +134,7 @@ Next I include a table with the results of measuring the digital signature algor
 |	RAINBOW	|	 opt-Vc-Circumzenithal	|	sk-1375700-bytes	|	pk-523600-bytes	|	2514242	|	 0.001327	|	39868305	|	 0.021039	|
 |	RAINBOW	|	 opt-Vc-Compressed	|	sk-60-bytes	|	pk-523600-bytes	|	237678445	|	 0.125424	|	39963676	|	 0.021089	|
 |	RAINBOW	|	 ref-Vc-Circumzenithal	|	sk-1375700-bytes	|	pk-523600-bytes	|	3530717	|	 0.001863	|	40201672	|	 0.021215	|
-	RAINBOW		 ref-Vc-Compressed		sk-60-bytes		pk-523600-bytes		352857933		 0.186205		41302142		 0.021795	
+|	RAINBOW	|	 ref-Vc-Compressed	|	sk-60-bytes		|	pk-523600-bytes	|      352857933|	 0.186205	|	41302142	|	 0.021795	|
 
 
 **Alternative Candidates Signature**
