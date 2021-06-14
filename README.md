@@ -25,7 +25,7 @@ The machine where I performed the original test has the following characteristic
 - 4GB of RAM DDR3, 3824MiB
 - SSD 128GB Sata3
 
-Next I include a table with the results of measuring the digital signature algorithms; it includes the three 3rd. Round Candidates of the NIST's Post Quantum Crypto Contest also the Alternative Candidates, all signatures were tested 100 cycles and averaging; the categories where 3rd. round candidates signature, 3rd. round candidates verification, alternative candidates signature and alternative candidates verification, the results are in the clasifications mentions above sorted by the fastest signature in every category.
+Next I include a table with the results of measuring the digital signature algorithms; it includes the three 3rd. Round Candidates of the NIST's Post Quantum Crypto Contest also the Alternative Candidates, all signatures were tested 100 cycles and averaging; the categories where 3rd. round candidates signature, 3rd. round candidates verification, alternative candidates signature and alternative candidates verification, the results are in the clasifications mentions above sorted by the fastest signature and verification accordingly in every category.
 
 
 
